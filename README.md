@@ -6,4 +6,8 @@ Data was from Kaggle, by MÖBIUS (https://www.kaggle.com/datasets/arashnic/fitbi
 
 Environment: R Programming & Microsoft Excel
 
+Project can be viewed with below link via RPubs:
+https://rpubs.com/joeytyz/GoogleCapstoneBellabeat
+
+
 END
